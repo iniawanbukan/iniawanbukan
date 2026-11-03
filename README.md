@@ -54,8 +54,11 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project 1](#)** | Deskripsi singkat mengenai proyek utama yang pernah Anda buat. | `React` `Node.js` `PostgreSQL` |
-| **[Project 2](#)** | Deskripsi singkat proyek kedua atau aplikasi open-source. | `TypeScript` `Next.js` `Tailwind` |
+| **[QSFindItemAddOn-Cloud](https://github.com/iniawanbukan/QSFindItemAddOn-Cloud)** | QuickShop / item finder add-on integration designed for Minecraft server ecosystems. | `Java` `JavaScript` `Minecraft` |
+| **[BattlePass-Cloud](https://github.com/iniawanbukan/BattlePass-Cloud)** | Custom battle pass progression and reward system built for community server networks. | `TypeScript` `Java` `Skript` |
+| **[SimpleRedeem](https://github.com/iniawanbukan/SimpleRedeem)** | Lightweight redemption code and voucher reward management system for users. | `PHP` `JavaScript` `SQL` |
+
+> 🌱 **Active Contribution:** Also actively contributing to [sigmabem](https://github.com/iniawanbukan/sigmabem).
 
 ---
 
