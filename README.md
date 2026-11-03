@@ -16,6 +16,7 @@
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,13 +66,13 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-anda" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-chairawan-2964942b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:emailanda@gmail.com" target="_blank">
+  <a href="mailto:muhammadchairawan99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/username-anda" target="_blank">
+  <a href="https://www.instagram.com/4waann___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
