@@ -23,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### **Backend & Databases**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -55,11 +56,11 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[QSFindItemAddOn-Cloud](https://github.com/iniawanbukan/QSFindItemAddOn-Cloud)** | QuickShop / item finder add-on integration designed for Minecraft server ecosystems. | `Java` `JavaScript` `Minecraft` |
-| **[BattlePass-Cloud](https://github.com/iniawanbukan/BattlePass-Cloud)** | Custom battle pass progression and reward system built for community server networks. | `TypeScript` `Java` `Skript` |
-| **[SimpleRedeem](https://github.com/iniawanbukan/SimpleRedeem)** | Lightweight redemption code and voucher reward management system for users. | `PHP` `JavaScript` `SQL` |
+| **[QSFindItemAddOn-Cloud](https://github.com/iniawanbukan/QSFindItemAddOn-Cloud)** | QuickShop / item finder add-on integration designed for Minecraft server ecosystems. | `Java`, `Maven` |
+| **[BattlePass-Cloud](https://github.com/iniawanbukan/BattlePass-Cloud)** | Custom battle pass progression and reward system built for community server networks. | `Java`, `Maven` |
+| **[SimpleRedeem](https://github.com/iniawanbukan/SimpleRedeem)** | Lightweight redemption code and voucher reward management system for users. | `Java`, `Maven` |
 
-> 🌱 **Active Contribution:** Also actively contributing to [sigmabem](https://github.com/iniawanbukan/sigmabem).
+> 🌱 **Active Contribution:** Also actively contributing to [sigmabem](https://github.com/iniawanbukan/sigmabem).  | `Laravel` |
 
 ---
 
